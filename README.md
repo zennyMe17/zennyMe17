@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @zennyMe17
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning BE CSE(Cyber Security)
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me mail : gowda.hemanth.1718@gmail.com
+
 
 <!---
 zennyMe17/zennyMe17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
