@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hemanth+S!;" />
 </h1>
 
-<h3 align="center">A passionate tech hunger from India 🇮🇳</h3>
+<h3 align="center">A passionate devotee of hard work from India 🇮🇳</h3>
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 💬 Ask me about **C, C++, HTML, CSS, JavaScript, ....anything [here](https://github.com/zennyMe17/zennyMe17/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Interesting fact **I'm interested in stocks market and business field**
 
  </div>
  
