@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 👨‍🎓 I’m currently studying in **Ramaiah Institute Of Technology chnology**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Frontend development, Data-Structures & Algorithm, Generative-AI**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/zennyMe17/zennyMe17/issues)**
+💬 Ask me about **C, C++, HTML, CSS, JavaScript, ....anything [here](https://github.com/zennyMe17/zennyMe17/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
