@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 👨‍🎓 I’m currently studying in **Ramaiah Institute Of Technology chnology**
+ 👨‍🎓 I’m pursuing my degree in **Ramaiah Institute Of Technology chnology**
  
  🌱 I’m currently learning **Frontend development, Data-Structures & Algorithm, Generative-AI**
 
@@ -24,7 +24,7 @@
   <a href="mailto:gowda.hemanth.1718@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://linkedin.com/in/Hemanth S" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://zennyMe17.github.io" target="_blank">
