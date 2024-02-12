@@ -40,7 +40,7 @@
 </div>
 
 <br/>
-<img align="right" height="150" width="200" src="https://cdn-hjkgf.nitrocdn.com/TXhyeHzLvXrPrkIinWDxLcEonZCfYOKB/assets/images/optimized/rev-c1aea26/ineedanime.com/wp-content/uploads/2021/09/Yutaka-Kobayakawa-wave-lucky-star.gif"  />
+<img align="right" height="150" width="200" src="https://cdn-hjkgf.nitrocdn.com/TXhyeHzLvXrPrkIinWDxLcEonZCfYOKB/assets/images/optimized/rev-c1aea26/ineedanime.com/wp-content/uploads/2021/09/Akane-Segawa-wave-never-girl-online.gif"  />
 
  <hr/>
  
