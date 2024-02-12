@@ -14,7 +14,7 @@
 
 <div align="center">
  
- 👨‍🎓 I’m pursuing my degree in **Ramaiah Institute Of Technology chnology**
+ 🏫 I’m pursuing my degree in **Ramaiah Institute Of Technology chnology**
  
  🌱 I’m currently learning **Frontend development, Data-Structures & Algorithm, Generative-AI**
 
