@@ -4,6 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hemanth+S!;" />
 </h1>
 
+ <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 <h3 align="center">A passionate devotee of hard work from India 🇮🇳</h3>
 
 <br/>
@@ -20,7 +22,7 @@
 
  </div>
 
- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
  
 <div align="center"> 
   <a href="mailto:gowda.hemanth.1718@gmail.com">
