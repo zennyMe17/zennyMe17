@@ -40,7 +40,7 @@
 </div>
 
 <br/>
-<img align="right" height="150" src="https://cdn-hjkgf.nitrocdn.com/TXhyeHzLvXrPrkIinWDxLcEonZCfYOKB/assets/images/optimized/rev-c1aea26/ineedanime.com/wp-content/uploads/2021/09/yuudachi-wave-KanColle.gif"  />
+<img align="right" height="150" width="100" src="https://cdn-hjkgf.nitrocdn.com/TXhyeHzLvXrPrkIinWDxLcEonZCfYOKB/assets/images/optimized/rev-c1aea26/ineedanime.com/wp-content/uploads/2021/09/yuudachi-wave-KanColle.gif"  />
 
  <hr/>
  
