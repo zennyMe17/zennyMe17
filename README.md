@@ -46,10 +46,10 @@
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+<br/><br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,javascript" /><br><br/>
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,javascript" /><br>
 </div>
 
 <br/>
