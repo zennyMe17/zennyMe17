@@ -20,7 +20,7 @@
 
 💬 Ask me about **C, C++, HTML, CSS, JavaScript, ....anything [here](https://github.com/zennyMe17/zennyMe17/issues)**
 
-⚡ Interesting fact **I'm interested in stock market and business field**
+⚡ My Interest **I'm interested in stock market and business field**
 
  </div>
 
