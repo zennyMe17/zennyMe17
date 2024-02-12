@@ -49,13 +49,13 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,javascript" /><br>
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,javascript" /><br><br/>
 </div>
 
 <br/>
 <hr/>
 </div>
-<br/>
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
