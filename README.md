@@ -63,42 +63,40 @@ I'm passionate about building scalable and secure solutions, and love to work wi
 
 ## 🚀 Featured Projects
 
-<details>
-<summary><b>Ethical Hiring – AI Hiring Platform</b> &nbsp; <a href="https://github.com/zennyMe17/ethicra" target="_blank">[Repo]</a></summary>
+### Ethical Hiring – AI Hiring Platform &nbsp; [Repo](https://github.com/zennyMe17/ethicra)
 
-> <b>Tech:</b> Next.js, Firebase, AWS S3, NLP, Vapi AI  
-> <b>Date:</b> Jan'25  
-> <b>Summary:</b> Developed a SaaS platform for AI-powered mock interviews with real-time voice and secure resume handling, boosting user retention by 60%.
+**Tech:** Next.js, Firebase, AWS S3, NLP, Vapi AI  
+**Date:** Jan'25  
+**Summary:** Developed a SaaS platform for AI-powered mock interviews with real-time voice and secure resume handling, boosting user retention by 60%.
 
 - Scalable web app for AI-powered mock interviews.
 - Voice-based interviews (Vapi AI), AWS S3 for secure resume uploads.
 - BERT for skill extraction; generative model for interview questions.
 - Personalized assessments for users.
-</details>
 
-<details>
-<summary><b>Smart Farming Assistant – Crop Recommender</b> &nbsp; <a href="https://github.com/zennyMe17/smart_farming_assistant" target="_blank">[Repo]</a></summary>
+---
 
-> <b>Tech:</b> Python, Flask, scikit-learn, Next.js  
-> <b>Date:</b> Dec'24  
-> <b>Summary:</b> Intelligent crop recommender giving farmers real-time, data-driven planting insights.
+### Smart Farming Assistant – Crop Recommender &nbsp; [Repo](https://github.com/zennyMe17/smart_farming_assistant)
+
+**Tech:** Python, Flask, scikit-learn, Next.js  
+**Date:** Dec'24  
+**Summary:** Intelligent crop recommender giving farmers real-time, data-driven planting insights.
 
 - Secure recommender using decision trees & live farm data.
 - Flask API with weather integration for real-time predictions.
 - Next.js frontend for dynamic suggestions.
-</details>
 
-<details>
-<summary><b>DynamiCache – Hybrid Cache System</b> &nbsp; <a href="https://github.com/zennyMe17/HybridCacheSystem" target="_blank">[Repo]</a></summary>
+---
 
-> <b>Tech:</b> C++, Threading, LFU, LRU, Multi-Level Queues  
-> <b>Date:</b> Mar'25  
-> <b>Summary:</b> Hybrid cache switching between LFU/LRU, robust threading for low-latency operation.
+### DynamiCache – Hybrid Cache System &nbsp; [Repo](https://github.com/zennyMe17/HybridCacheSystem)
+
+**Tech:** C++, Threading, LFU, LRU, Multi-Level Queues  
+**Date:** Mar'25  
+**Summary:** Hybrid cache switching between LFU/LRU, robust threading for low-latency operation.
 
 - Dynamic LFU/LRU policy switching.
 - Scalable, robust for fluctuating workloads.
 - Threading for asynchronous, low-latency updates.
-</details>
 
 ---
 
