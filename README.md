@@ -71,7 +71,7 @@ I'm passionate about building scalable and secure solutions, and love to work wi
 
 - Scalable web app for AI-powered mock interviews.
 - Voice-based interviews (Vapi AI), AWS S3 for secure resume uploads.
-- BERT for skill extraction; generative model for interview questions.
+- Implemented AI-powered video integrity checks using TensorFlow.js and BlazeFace.
 - Personalized assessments for users.
 
 ---
